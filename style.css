@@ -1,0 +1,46 @@
+body{
+    margin : 0 auto;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+.post{
+    width: 510px;
+    background-color: gainsboro;
+     
+}
+img {
+    width: 510px;
+    height: 300px;
+    object-fit: fill;
+  }
+.header{
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 14px;
+    height: 42px;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+.icoms{
+    flex-direction: row;
+    padding-right: 20px; 
+}
+.burger{
+    margin-left: 360px;
+}
+.footer{
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+.container{
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    height: 30px;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+.book{
+    margin-left: 360px;
+}
